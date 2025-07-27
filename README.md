@@ -32,12 +32,11 @@ This project is a console-based **ATM Simulation** system implemented in **Java*
 
 ATM-Simulator/
 │
-├── Account.java # Handles account balance, PINs, transactions, limits
-├── ATM.java # Main menu UI and user operations
-├── Transaction.java # Stores individual transaction details
-├── Main.java # Program entry point and PIN setup
-├── README.md # Project documentation
-
+├── Account.java → Handles account balance, PINs, transactions, and limits
+├── ATM.java → Main menu UI and user operations
+├── Transaction.java → Stores individual transaction details
+├── Main.java → Program entry point and PIN setup
+└── README.md → Project documentation
 ---
 
 ### 🔄 How It Works
