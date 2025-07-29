@@ -29,7 +29,7 @@ This project is a console-based **ATM Simulation** system implemented in **Java*
 ---
 
 ### 🗃️ Folder Structure
-
+'''
 ATM-Simulator/
 │
 ├── Account.java → Handles account balance, PINs, transactions, and limits
@@ -37,6 +37,7 @@ ATM-Simulator/
 ├── Transaction.java → Stores individual transaction details
 ├── Main.java → Program entry point and PIN setup
 └── README.md → Project documentation
+'''
 ---
 
 ### 🔄 How It Works
@@ -76,7 +77,7 @@ This simulation includes a **"Fake PIN" system** — a real-world inspired secur
 
 ---
 
-### 📌 To Do (Optional Enhancements)
+### 📌 To Do (Future Enhancements)
 
 * Add **savings goal tracker**  
 * Add **family account mode** with children spending limits  
