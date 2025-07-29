@@ -29,7 +29,7 @@ This project is a console-based **ATM Simulation** system implemented in **Java*
 ---
 
 ### 🗃️ Folder Structure
-'''
+
 ATM-Simulator/
 │
 ├── Account.java → Handles account balance, PINs, transactions, and limits
@@ -37,7 +37,7 @@ ATM-Simulator/
 ├── Transaction.java → Stores individual transaction details
 ├── Main.java → Program entry point and PIN setup
 └── README.md → Project documentation
-'''
+
 ---
 
 ### 🔄 How It Works
